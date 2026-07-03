@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">[untitled]</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5400" lry="7115" xml:id="facs_3">
+         <graphic url="0017_017_7r.jpeg" width="5400px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=LDOWHMLBAETIZGHCNLVXBHEI" width="5400px" height="7115px"/>
+         <zone points="4742,319 4981,319 4981,533 4742,533" rendition="TextRegion" xml:id="facs_3_r_1" subtype="page-number">
+         </zone>
+         <zone points="131,1050 5197,1050 5197,6800 131,6800" rendition="TextRegion" xml:id="facs_3_r" subtype="paragraph">
+            <zone points="211,1063 4898,1063 4898,1467 211,1467" rendition="Line" xml:id="facs_3_r_tl_1"/>
+            <zone points="242,1355 5085,1355 5085,1759 242,1759" rendition="Line" xml:id="facs_3_r_tl_2"/>
+            <zone points="242,1629 2393,1629 2393,2064 242,2064" rendition="Line" xml:id="facs_3_r_tl_3"/>
+            <zone points="1156,1995 3232,1995 3232,2344 1156,2344" rendition="Line" xml:id="facs_3_l_8"/>
+            <zone points="3189,2101 3338,2101 3338,2350 3189,2350" rendition="Line" xml:id="facs_3_l_9"/>
+            <zone points="2486,1753 5128,1753 5128,2107 2486,2107" rendition="Line" xml:id="facs_3_r_tl_4"/>
+            <zone points="3313,1995 5122,1995 5122,2337 3313,2337" rendition="Line" xml:id="facs_3_l_10"/>
+            <zone points="199,2213 1890,2213 1890,2667 199,2667" rendition="Line" xml:id="facs_3_r_tl_6"/>
+            <zone points="1200,2592 4861,2592 4861,2922 1200,2922" rendition="Line" xml:id="facs_3_l_11"/>
+            <zone points="4339,2505 4849,2505 4849,2685 4339,2685" rendition="Line" xml:id="facs_3_r_tl_7"/>
+            <zone points="4861,2605 5060,2605 5060,2922 4861,2922" rendition="Line" xml:id="facs_3_l_12"/>
+            <zone points="193,2878 1467,2878 1467,3226 193,3226" rendition="Line" xml:id="facs_3_r_tl_9"/>
+            <zone points="1380,3152 5153,3152 5153,3549 1380,3549" rendition="Line" xml:id="facs_3_r_tl_10"/>
+            <zone points="155,3487 1194,3487 1194,3773 155,3773" rendition="Line" xml:id="facs_3_l_5"/>
+            <zone points="1113,3649 1243,3649 1243,3835 1113,3835" rendition="Line" xml:id="facs_3_l_6"/>
+            <zone points="709,3208 1361,3208 1361,3593 709,3593" rendition="Line" xml:id="facs_3_r_tl_11"/>
+            <zone points="1200,3462 3960,3462 3960,3823 1200,3823" rendition="Line" xml:id="facs_3_l_7"/>
+            <zone points="1411,3761 3954,3761 3954,4134 1411,4134" rendition="Line" xml:id="facs_3_l"/>
+            <zone points="3630,3618 4395,3618 4395,3891 3630,3891" rendition="Line" xml:id="facs_3_l_2"/>
+            <zone points="3991,3804 4911,3804 4911,4084 3991,4084" rendition="Line" xml:id="facs_3_l_4"/>
+            <zone points="3935,3904 4059,3904 4059,4140 3935,4140" rendition="Line" xml:id="facs_3_l_1"/>
+            <zone points="143,4047 5141,4047 5141,4426 143,4426" rendition="Line" xml:id="facs_3_r_tl_15"/>
+            <zone points="131,4376 2437,4376 2437,4731 131,4731" rendition="Line" xml:id="facs_3_r_tl_16"/>
+            <zone points="1635,4668 5048,4668 5048,5029 1635,5029" rendition="Line" xml:id="facs_3_r_tl_17"/>
+            <zone points="193,4911 5128,4911 5128,5365 193,5365" rendition="Line" xml:id="facs_3_r_tl_18"/>
+            <zone points="1610,5284 5066,5284 5066,5619 1610,5619" rendition="Line" xml:id="facs_3_r_tl_19"/>
+            <zone points="186,5520 4780,5520 4780,5912 186,5912" rendition="Line" xml:id="facs_3_r_tl_20"/>
+            <zone points="193,5968 995,5968 995,6179 193,6179" rendition="Line" xml:id="facs_3_l_13"/>
+            <zone points="908,6079 1019,6079 1019,6247 908,6247" rendition="Line" xml:id="facs_3_l_14"/>
+            <zone points="218,5787 4252,5787 4252,6079 218,6079" rendition="Line" xml:id="facs_3_l_3"/>
+            <zone points="1019,5874 4992,5874 4992,6247 1019,6247" rendition="Line" xml:id="facs_3_l_15"/>
+            <zone points="180,6154 5054,6154 5054,6533 180,6533" rendition="Line" xml:id="facs_3_r_tl_25"/>
+            <zone points="155,6452 5122,6452 5122,6863 155,6863" rendition="Line" xml:id="facs_3_r_tl_26"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <p facs="#facs_3_r">
+               <lb facs="#facs_3_r_tl_1" n="N001"/>finished my story make them give me time so that I may tell
+               <lb facs="#facs_3_r_tl_2" n="N002"/>you the whole truth." I could go to gaol happy if I knew that you
+               <lb facs="#facs_3_r_tl_3" n="N003"/>were working for me outside"
+               <lb facs="#facs_3_l_8" n="N004"/>"Arrest you!" said <rs type="person">Holmes</rs>
+               <lb facs="#facs_3_l_9" n="N005"/><hi style="vertical-align: subscript;">^</hi>
+               <lb facs="#facs_3_r_tl_4" n="N006"/><add>This is really most grati–most interesting</add>
+               <lb facs="#facs_3_l_10" n="N007"/>"On what charge do you
+               <lb facs="#facs_3_r_tl_6" n="N008"/>expect to be arrested?"
+               <lb facs="#facs_3_l_11" n="N009"/>"Upon the charge of murdering <rs type="person" continued="true">Mr. Jones <hi style="text-decoration: line-through;">Oldacre</hi></rs>
+               <lb facs="#facs_3_r_tl_7" n="N010"/><rs type="person" continued="true">Oldacre</rs>
+               <lb facs="#facs_3_l_12" n="N011"/>of
+               <lb facs="#facs_3_r_tl_9" n="N012"/>Lower Norwood."
+               <lb facs="#facs_3_r_tl_10" n="N013"/>My companion’s expressive face showed a sympathy
+               <lb facs="#facs_3_l_5" n="N014"/>which was not
+               <lb facs="#facs_3_l_6" n="N015"/><hi style="vertical-align: subscript;">^</hi>
+               <lb facs="#facs_3_r_tl_11" n="N016"/><add>I am afraid</add>
+               <lb facs="#facs_3_l_7" n="N017"/>entirely unmixed with satisfaction.
+               <lb facs="#facs_3_l" n="N018"/>"Dear me!" said he "It was only
+               <lb facs="#facs_3_l_2" n="N019"/><add>this moment</add>
+               <lb facs="#facs_3_l_4" n="N020"/>at breakfast
+               <lb facs="#facs_3_l_1" n="N021"/><hi style="vertical-align: subscript;">^</hi>
+               <lb facs="#facs_3_r_tl_15" n="N022"/>that I was saying to my friend <rs type="person">Dr. Watson</rs> that sensational cases had
+               <lb facs="#facs_3_r_tl_16" n="N023"/>disappeared out of our papers"
+               <lb facs="#facs_3_r_tl_17" n="N024"/>Our visitor stretched forward a quivering hand
+               <lb facs="#facs_3_r_tl_18" n="N025"/>and picked up the Daily Telegraph which still lay upon <rs type="person">Holmes'</rs> knee.
+               <lb facs="#facs_3_r_tl_19" n="N026"/>"If you had looked at it, sir, you would have seen
+               <lb facs="#facs_3_r_tl_20" n="N027"/>at a glance what the errand is on which I have come to you this
+               <lb facs="#facs_3_l_13" n="N028"/>morning."
+               <lb facs="#facs_3_l_14" n="N029"/><hi style="vertical-align: subscript;">^</hi>
+               <lb facs="#facs_3_l_3" n="N030"/><add>I feel as if my name + my misfortune must be in every man's mouth.</add>
+               <lb facs="#facs_3_l_15" n="N031"/>He turned it over to expose the central page. Here it is,
+               <lb facs="#facs_3_r_tl_25" n="N032"/>and with your permission I will read it to you <hi style="text-decoration: line-through;">for it tells what</hi>
+               <lb facs="#facs_3_r_tl_26" n="N033"/><hi style="text-decoration: line-through;">the police are going on</hi>. Listen to this, <rs type="person">Mr. Holmes</rs>. The headlines</p></div>
+      </body>
+   </text>
+</TEI>
