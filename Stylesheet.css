@@ -1,9 +1,14 @@
 body {
-
+  background-color:LightGray;
 }
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+}
+
+.subtitle {
+  text-align: right;
+  font-size: smaller;
 }
 
 img {
